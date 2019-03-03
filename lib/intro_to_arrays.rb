@@ -1,6 +1,5 @@
 def instantiate_new_array
 	@my_new_array = []
-	size = @my_new_array.size
 end 
 
 def array_with_two_elements
