@@ -2,8 +2,6 @@ def instantiate_new_array
 	my_new_array = []
 	size = my_new_array.size
 end 
-	
-end 
 
 def array_with_two_elements
 	my_new_array = ["cars", "bikes"]
@@ -21,7 +19,7 @@ def south_east_asia
 	south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
 	my_last_element = south_east_asia.last
 	first_country = south_east_asia.first
-
+end
 
 def programming_languages  
 	programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
