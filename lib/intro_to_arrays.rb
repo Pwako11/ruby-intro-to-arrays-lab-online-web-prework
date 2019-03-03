@@ -4,7 +4,6 @@ end
 
 def array_with_two_elements
 	@my_new_array = ["cars", "bikes"]
-	size = @my_new_array.size
 end 
 
 def taylor_swift 
