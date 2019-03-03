@@ -1,12 +1,12 @@
 def instantiate_new_array
 	@my_new_array = []
-	puts @my_new_array.ispect
+	puts @my_new_array.inspect
 	size = @my_new_array.size
 end 
 
 def array_with_two_elements
 	@my_new_array = ["cars", "bikes"]
-	puts @my_new_array.ispect
+	puts @my_new_array.inspect
 	size = @my_new_array.size
 end 
 
