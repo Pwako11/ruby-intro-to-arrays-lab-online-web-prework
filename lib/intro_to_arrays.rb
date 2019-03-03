@@ -67,5 +67,5 @@ end
 
 def programming_languages  
 	@programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
-	lenght = @programming_languages.size
+	length = @programming_languages.size
 end
