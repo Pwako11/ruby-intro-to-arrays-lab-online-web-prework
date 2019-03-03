@@ -26,7 +26,7 @@ def first_element_with_array_methods(first_country)
 	first_country = @south_east_asia.first
 end
 
-def las_element_with_array_methods(my_last_country)   
+def last_element_with_array_methods(my_last_country)   
 	@south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
 	my_last_country = @south_east_asia.last
 end
