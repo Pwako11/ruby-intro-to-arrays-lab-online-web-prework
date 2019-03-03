@@ -11,14 +11,14 @@ def first_element (my_first_element)
   my_first_element = @taylor_swift.first
 end
 
-def third_element
+def third_element(my_third_element)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  my_third_element = @taylor_swift[2]
+  my_third_element = @taylor_swift.third
 end 
 
-def last_element
+def last_element(my_last_element)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  my_last_element = @taylor_swift[3]
+  my_last_element = @taylor_swift.last
 end 
 
 def south_east_asia  
